@@ -13,6 +13,6 @@ snetchecker { ██████████████████████
   
 -  I’m currently working on **snetchecker**
 
-- 📧 How to reach me? **Connect to me via Discord <a href="https://discord.com/users/323037252978606092" target="_blank">kolik</a>*
+- 📧 How to reach me? **Connect to me via Discord <a href="https://discord.com/users/323037252978606092" target="_blank">kolik</a>**
 
 - ⚡ Fun fact: **I love to fitness**
