@@ -11,6 +11,6 @@
      </br>
 -  I’m currently working on **snetchecker**
    </br>
-- <a href="https://emoji.gg/emoji/4202-firstmessage-art"><img src="https://cdn3.emoji.gg/emojis/4202-firstmessage-art.png" width="16px" height="16px" alt="firstmessage_art"></a> How to reach me? **Connect to me via <a href="https://discord.com/users/323037252978606092" target="_blank">Discord</a>**
+- <a href="https://emoji.gg/emoji/4202-firstmessage-art"><img src="https://cdn3.emoji.gg/emojis/4202-firstmessage-art.png" width="20px" height="20px" alt="firstmessage_art"></a> How to reach me? **Connect to me via <a href="https://discord.com/users/323037252978606092" target="_blank">Discord</a>**
 
 
