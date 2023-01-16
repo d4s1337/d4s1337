@@ -4,7 +4,7 @@
 <div align="center">
       <img src="https://lanyard-profile-readme.vercel.app/api/837817581507313724?theme=dark&bg=2f3136&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
    </a>
-Im using <a href="https://emoji.gg/emoji/8094-html"><img src="https://cdn3.emoji.gg/emojis/8094-html.png" width="32px" height="32px" alt="HTML"></a>,<a href="https://emoji.gg/emoji/9873-python-logo"><img src="https://cdn3.emoji.gg/emojis/9873-python-logo.png" width="32px" height="32px" alt="Python_Logo"></a>,<a href="https://emoji.gg/emoji/7287_PhpStorm"><img src="https://cdn3.emoji.gg/emojis/7287_PhpStorm.png" width="32px" height="32px" alt="PhpStorm"></a>
+- Im using <a href="https://emoji.gg/emoji/8094-html"><img src="https://cdn3.emoji.gg/emojis/8094-html.png" width="32px" height="32px" alt="HTML"></a>,<a href="https://emoji.gg/emoji/9873-python-logo"><img src="https://cdn3.emoji.gg/emojis/9873-python-logo.png" width="32px" height="32px" alt="Python_Logo"></a>,<a href="https://emoji.gg/emoji/7287_PhpStorm"><img src="https://cdn3.emoji.gg/emojis/7287_PhpStorm.png" width="32px" height="32px" alt="PhpStorm"></a>
 - 💻 I’m currently learning about **php**
   
 -  I’m currently working on **snetchecker**
