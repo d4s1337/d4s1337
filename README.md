@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm kolik</h1>
-<h3 align="center">student from turkiye</h3>
+<h3 align="center">insanevladı</h3>
 
 <div align="center">
       <img src="https://lanyard-profile-readme.vercel.app/api/837817581507313724?theme=dark&bg=2f3136&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
