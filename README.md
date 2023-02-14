@@ -11,5 +11,5 @@
 -  I’m currently working on kolikware (lua)
    </br>
 - <a href="https://emoji.gg/emoji/4202-firstmessage-art"><img src="https://cdn3.emoji.gg/emojis/4202-firstmessage-art.png" width="20px" height="20px" alt="firstmessage_art"></a> How to reach me? ** Connect to me via <a href="https://discord.com/users/837817581507313724" target="_blank">Discord</a> **
-<img src="https://raw.githubusercontent.com/daskolik/scriptzone/repo.ichbinmusti.git/resim_2023-02-14_220105555.png" width="4000px" height="500px" alt="firstmessage_art">
+<img src="https://raw.githubusercontent.com/daskolik/scriptzone/repo.ichbinmusti.git/resim_2023-02-14_220105555.png" width="1000px" height="500px" alt="firstmessage_art">
 
