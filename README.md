@@ -16,6 +16,6 @@
 
 
 
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/daskolik/scriptzone/repo.ichbinmusti.git/resim_2023-02-14_220105555.png" width="600px" height="600px" alt="">
 
