@@ -17,4 +17,3 @@
 
 
 <div align="center">
-and thanks for checking this shitty page :thumbs_up:
