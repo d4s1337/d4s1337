@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/egee0">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ege%20-%20egee0&font=Fira%20Code&center=true&width=200&height=45&color=ffd700&vCenter=true&pause=10000&size=22" alt="egee0" /></a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/egee0">
