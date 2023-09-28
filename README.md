@@ -1,17 +1,29 @@
-<h1 align="center">Hi 👋🏻, I'm Mustafa</h1>
+<p align="center">
+  <a href="https://github.com/egee0">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ege%20-%20egee0&font=Fira%20Code&center=true&width=200&height=45&color=ffd700&vCenter=true&pause=10000&size=22" alt="egee0" /></a>
+</p>
 
-<div align="center">
-      <img src="https://lanyard-profile-readme.vercel.app/api/837817581507313724?theme=dark&bg=2f3136&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
-   </a>
-   </br>
-- Im using <a href="https://emoji.gg/emoji/9873-python-logo"><img src="https://cdn3.emoji.gg/emojis/9873-python-logo.png" width="32px" height="32px" alt="Python_Logo">
-   </br>
-- 💻 I’m currently learning about lua
-     </br>
--  I’m currently working on kolikware (lua)
-   </br>
--  How to reach me? ** Contact to me via <a href="https://discord.com/users/837817581507313724" target="_blank">Discord</a> 
+<p align="center">
+  <a href="https://github.com/egee0">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi im Mustafa;Junior Python Developer.;I%20live%20in %20Istanbul.;I'm middle-school student and self-improvement 
+ person.&font=Fira%20Code&center=true&width=680&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
+<p align="center">
+  <a href="https://google.com"><img width="32px" alt="egee.me" title="My Web Site" src="https://i.hizliresim.com/puarq0y.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/dascrimson"><img width="32px" alt="Instagram" title="Instagram" src="https://i.hizliresim.com/jyx8dyh.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/kolik1337"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/837817581507313724" alt="Discord" title="My Discord Profile"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/>
+
+
+</p>
 
 
 
