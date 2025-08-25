@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🎯 Currently working on: **Discord Bots with Python**
-- 💌 Contact me: **d4si@outlook.com.tr**
+- 💌 Contact me: **d4si+github@outlook.com.tr**
 - 🪪 Discord: @d4s
 - 🌱 Learning: **Discord API usage & automation systems**
 
