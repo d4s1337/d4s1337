@@ -1,7 +1,7 @@
 # Hi, its Mustafa 👋
 
 ## 👨‍💻 About Me
-- 🎯 Currently working on: **Discord Bots with Python**
+- 🎯 Currently working on: **projects using pymem**
 - 💌 Contact me: **d4si+github@outlook.com.tr**
 - 🪪 Discord: @d4s
 - 🌱 Learning: **Discord API usage & automation systems**
