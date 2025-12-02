@@ -18,8 +18,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-Main tools and languages I use: Photoshop, Illustrator, Python, JavaScript, HTML, CSS, C#, Lua.
-
 ---
 
 ## 🚀 Projects
