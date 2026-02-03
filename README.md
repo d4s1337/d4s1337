@@ -1,7 +1,7 @@
 # Hi, I'm Mustafa 👋 (d4s1337)
 
 ## 👨‍💻 About Me
-- 🎯 Currently working on: **web technologies**
+- 🎯 Currently working at kateshi.net
 - 💌 Contact: **d4si+github@outlook.com.tr**
 - 🪪 Discord: **@d4s**
 - 🌱 Learning: **Discord API usage & automation systems**
