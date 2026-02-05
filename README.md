@@ -27,6 +27,12 @@
 
 ---
 
+## 💖 Support Me
+If you like my work, consider sponsoring me on GitHub!  
+[![Sponsor](https://img.shields.io/badge/Sponsor-d4s1337-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/d4s1337)
+
+---
+
 ## 📫 Contact
 Email: d4si+github@outlook.com.tr  
 Discord: @d4s
