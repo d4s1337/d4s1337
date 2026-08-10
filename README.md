@@ -1,4 +1,3 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/26d30892-d20d-45e4-8d5a-efbc43851e8b" /># Hi, I'm Mustafa 👋 (d4s1337)
 
 ## 👨‍💻 About Me
 - 🎯 Currently working at kateshi.net
