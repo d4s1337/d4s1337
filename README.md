@@ -1,6 +1,6 @@
 
 ## 👨‍💻 About Me
-- 🎯 Currently working at kateshi.net
+- 🎯 Currently working at 7m.net.tr
 - 💌 Contact: **d4si+github@outlook.com.tr**
 - 🪪 Discord: **@d4s**
 - 🌱 Learning: **Discord API usage & automation systems**
